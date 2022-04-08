@@ -15,7 +15,7 @@ Constraints:
 -1000 <= a, b <= 1000
 */
 
-var getSum = function(a, b) {
+const getSum = function(a, b) {
   
 /*  
 Binary operators used:
