@@ -1,1 +1,1 @@
-Master Algorithm and evaluating time & space complexity
+Master algorithms and evaluating time & space complexity
