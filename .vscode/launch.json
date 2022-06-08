@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/containsDuplicate.js"
+      "program": "${workspaceFolder}/productOfArrayExceptSelf.js"
     }
   ]
 }
